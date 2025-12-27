@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">NMedia</string>
+    <string name="eye">просмотры</string>
+    <string name="heart">лайк</string>
+    <string name="logo">логотип</string>
+    <string name="more">описание</string>
     <string name="nmedia">НМедиа!</string>
+    <string name="share">поделиться</string>
 </resources>

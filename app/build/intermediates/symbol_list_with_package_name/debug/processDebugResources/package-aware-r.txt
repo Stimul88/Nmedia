@@ -1579,7 +1579,10 @@ color foreground_material_dark
 color foreground_material_light
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color ic_eye_background
+color ic_heart_background
 color ic_launcher_background
+color ic_share_background
 color m3_appbar_overlay_color
 color m3_assist_chip_icon_tint_color
 color m3_assist_chip_stroke_color
@@ -2516,6 +2519,7 @@ dimen cardview_compat_inset_shadow
 dimen cardview_default_elevation
 dimen cardview_default_radius
 dimen clock_face_margin_start
+dimen common_offset
 dimen compat_button_inset_horizontal_material
 dimen compat_button_inset_vertical_material
 dimen compat_button_padding_horizontal_material
@@ -3566,18 +3570,23 @@ drawable ic_clear_black_24
 drawable ic_clock_black_24dp
 drawable ic_expand_less_22px
 drawable ic_expand_more_22px
+drawable ic_eye_foreground
+drawable ic_heart_foreground
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
+drawable ic_more_vert_24
 drawable ic_mtrl_arrow_circle
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_netology_original_48dp
 drawable ic_search_black_24
+drawable ic_share_foreground
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
 drawable m3_bottom_sheet_drag_handle
@@ -3638,6 +3647,7 @@ drawable mtrl_switch_track
 drawable mtrl_switch_track_decoration
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable netology
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -3739,6 +3749,7 @@ id anticipate
 id arc
 id asConfigured
 id async
+id author
 id auto
 id autoComplete
 id autoCompleteToEnd
@@ -3746,6 +3757,7 @@ id autoCompleteToStart
 id autoHide
 id autoLimit
 id availableSpace
+id avatar
 id axisRelative
 id barrier
 id baseline
@@ -3755,6 +3767,7 @@ id below
 id bestChoice
 id blocking
 id bottom
+id bottomBarrier
 id bounce
 id bounceBoth
 id bounceEnd
@@ -3792,6 +3805,9 @@ id contiguous
 id continuousVelocity
 id coordinator
 id cos
+id countEye
+id countLike
+id countShare
 id counterclockwise
 id cradle
 id currentState
@@ -3845,6 +3861,7 @@ id escape
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id eye
 id fade
 id fill
 id fill_horizontal
@@ -3871,6 +3888,7 @@ id group_divider
 id grouping
 id groups
 id header_title
+id heart
 id hidden
 id hide_ime_id
 id hideable
@@ -3941,6 +3959,7 @@ id month_navigation_fragment_toggle
 id month_navigation_next
 id month_navigation_previous
 id month_title
+id more
 id motion_base
 id mtrl_calendar_day_selector_frame
 id mtrl_calendar_days_of_week
@@ -4026,6 +4045,7 @@ id postLayout
 id pressed
 id progress_circular
 id progress_horizontal
+id published
 id radio
 id ratio
 id rectangles
@@ -4061,6 +4081,7 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selection_type
+id share
 id sharedValueSet
 id sharedValueUnset
 id shortcut
@@ -4138,6 +4159,7 @@ id titleDividerNoCustom
 id title_template
 id toggle
 id top
+id topBarrier
 id topPanel
 id top_center
 id touch_outside
@@ -4377,8 +4399,14 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+mipmap ic_eye
+mipmap ic_eye_round
+mipmap ic_heart
+mipmap ic_heart_round
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap ic_share
+mipmap ic_share_round
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
 string abc_action_bar_up_description
@@ -4429,11 +4457,14 @@ string clear_text_end_icon_content_description
 string error_a11y_label
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
+string eye
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string heart
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string logo
 string m3_exceed_max_badge_text_suffix
 string m3_loading_indicator_content_description
 string m3_ref_typeface_brand_medium
@@ -4473,6 +4504,7 @@ string material_timepicker_minute
 string material_timepicker_pm
 string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
+string more
 string mtrl_badge_numberless_content_description
 string mtrl_button_collapsed_content_description
 string mtrl_button_expanded_content_description
@@ -4551,6 +4583,7 @@ string search_menu_title
 string searchbar_scrolling_view_behavior
 string searchview_clear_text_content_description
 string searchview_navigation_content_description
+string share
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string status_bar_notification_info_overflow

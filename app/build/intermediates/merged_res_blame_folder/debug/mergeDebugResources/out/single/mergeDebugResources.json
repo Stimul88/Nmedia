@@ -1,111 +1,127 @@
 [
     {
-        "merged": "ru.netology.nmedia.app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "ru.netology.nmedia.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-mdpi_ic_share.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-mdpi\\ic_share.webp"
     },
     {
-        "merged": "ru.netology.nmedia.app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "ru.netology.nmedia.app-main-38:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxxhdpi_ic_heart_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxxhdpi\\ic_heart_round.webp"
     },
     {
         "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\drawable_netology.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\drawable\\netology.xml"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-anydpi-v26_ic_share_round.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-anydpi-v26\\ic_share_round.xml"
+    },
+    {
         "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\drawable_ic_heart_foreground.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\drawable\\ic_heart_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\drawable_ic_more_vert_24.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\drawable\\ic_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xhdpi_ic_heart.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xhdpi\\ic_heart.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxhdpi_ic_heart_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxhdpi\\ic_heart_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-mdpi_ic_eye.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-mdpi\\ic_eye.webp"
     },
     {
         "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xhdpi_ic_eye.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xhdpi\\ic_eye.webp"
     },
     {
-        "merged": "ru.netology.nmedia.app-debug-36:/layout_activity_main.xml.flat",
-        "source": "ru.netology.nmedia.app-main-38:/layout/activity_main.xml"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-hdpi_ic_eye.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-hdpi\\ic_eye.webp"
     },
     {
-        "merged": "ru.netology.nmedia.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "ru.netology.nmedia.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxhdpi_ic_share_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxhdpi\\ic_share_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxxhdpi_ic_share_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxxhdpi\\ic_share_round.webp"
     },
     {
         "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "ru.netology.nmedia.app-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "ru.netology.nmedia.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "ru.netology.nmedia.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "ru.netology.nmedia.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "ru.netology.nmedia.app-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "ru.netology.nmedia.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-mdpi_ic_share_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-mdpi\\ic_share_round.webp"
     },
     {
-        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-mdpi_ic_heart_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-mdpi\\ic_heart_round.webp"
     },
     {
         "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xhdpi_ic_share.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xhdpi\\ic_share.webp"
     },
     {
-        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxhdpi_ic_eye_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxhdpi\\ic_eye_round.webp"
     },
     {
-        "merged": "ru.netology.nmedia.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "ru.netology.nmedia.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "ru.netology.nmedia.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "ru.netology.nmedia.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-anydpi-v26_ic_heart_round.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-anydpi-v26\\ic_heart_round.xml"
     },
     {
         "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "ru.netology.nmedia.app-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "ru.netology.nmedia.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-anydpi-v26_ic_eye_round.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-anydpi-v26\\ic_eye_round.xml"
     },
     {
-        "merged": "ru.netology.nmedia.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "ru.netology.nmedia.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xhdpi_ic_heart_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xhdpi\\ic_heart_round.webp"
     },
     {
         "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-hdpi_ic_share.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-hdpi\\ic_share.webp"
     },
     {
-        "merged": "ru.netology.nmedia.app-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "ru.netology.nmedia.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xhdpi_ic_share_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xhdpi\\ic_share_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-anydpi-v26_ic_share.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-anydpi-v26\\ic_share.xml"
     },
     {
         "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
@@ -116,11 +132,111 @@
         "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "ru.netology.nmedia.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "ru.netology.nmedia.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-anydpi-v26_ic_heart.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-anydpi-v26\\ic_heart.xml"
     },
     {
-        "merged": "ru.netology.nmedia.app-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "ru.netology.nmedia.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxhdpi_ic_share.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxhdpi\\ic_share.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\drawable_ic_netology_original_48dp.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\drawable\\ic_netology_original_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-anydpi-v26_ic_eye.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-anydpi-v26\\ic_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\drawable_ic_eye_foreground.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\drawable\\ic_eye_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxhdpi_ic_eye.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxhdpi\\ic_eye.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xhdpi_ic_eye_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xhdpi\\ic_eye_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-hdpi_ic_share_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-hdpi\\ic_share_round.webp"
+    },
+    {
+        "merged": "ru.netology.nmedia.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "ru.netology.nmedia.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxxhdpi_ic_heart.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxxhdpi\\ic_heart.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-hdpi_ic_heart_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-hdpi\\ic_heart_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxxhdpi_ic_share.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxxhdpi\\ic_share.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-hdpi_ic_eye_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-hdpi\\ic_eye_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxxhdpi_ic_eye_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxxhdpi\\ic_eye_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxhdpi_ic_heart.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxhdpi\\ic_heart.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-xxxhdpi_ic_eye.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-xxxhdpi\\ic_eye.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-hdpi_ic_heart.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-hdpi\\ic_heart.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-mdpi_ic_heart.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-mdpi\\ic_heart.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\mipmap-mdpi_ic_eye_round.webp.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\mipmap-mdpi\\ic_eye_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-debug-36:\\drawable_ic_share_foreground.xml.flat",
+        "source": "C:\\Users\\StimUL\\.gradle\\daemon\\8.13\\ru.netology.nmedia.app-main-38:\\drawable\\ic_share_foreground.xml"
     }
 ]

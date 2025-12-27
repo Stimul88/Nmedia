@@ -1,4 +1,4 @@
-#Tue Dec 23 21:36:13 MSK 2025
+#Sat Dec 27 20:28:33 MSK 2025
 base.0=E\:\\AndroidProgram\\Android\\NMedia\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=E\:\\AndroidProgram\\Android\\NMedia\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=E\:\\AndroidProgram\\Android\\NMedia\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex

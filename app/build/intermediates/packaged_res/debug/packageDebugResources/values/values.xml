@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+    <color name="ic_eye_background">#FFFFFF</color>
+    <color name="ic_heart_background">#FFFFFF</color>
     <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="ic_share_background">#FFFFFF</color>
     <color name="white">#FFFFFFFF</color>
+    <dimen name="common_offset">16dp</dimen>
     <string name="app_name">NMedia</string>
+    <string name="eye">eye</string>
+    <string name="heart">heart</string>
+    <string name="logo">logo</string>
+    <string name="more">more</string>
     <string name="nmedia">NMedia!</string>
+    <string name="share">share</string>
     <style name="Base.Theme.NMedia" parent="Theme.Material3.DayNight.NoActionBar">
         
         
