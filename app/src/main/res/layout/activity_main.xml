@@ -88,11 +88,11 @@
 
     <TextView
         android:id="@+id/countLike"
-        android:layout_width="30dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
-        app:layout_constraintTop_toBottomOf="@id/bottomBarrier"
+        app:layout_constraintBottom_toBottomOf="@id/heart"
         app:layout_constraintStart_toEndOf="@id/heart"
+        app:layout_constraintTop_toTopOf="@id/heart"
         tools:text="10" />
 
     <ImageView
@@ -107,11 +107,11 @@
 
     <TextView
         android:id="@+id/countShare"
-        android:layout_width="30dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
-        app:layout_constraintTop_toBottomOf="@id/bottomBarrier"
-        app:layout_constraintStart_toEndOf="@+id/share"
+        app:layout_constraintBottom_toBottomOf="@id/share"
+        app:layout_constraintStart_toEndOf="@id/share"
+        app:layout_constraintTop_toTopOf="@id/share"
         tools:text="5" />
 
     <ImageView
@@ -127,8 +127,9 @@
     <TextView
         android:id="@+id/countEye"
         android:layout_width="wrap_content"
-        android:layout_height="30dp"
-        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@id/eye"
+        app:layout_constraintTop_toTopOf="@id/eye"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/bottomBarrier"
         tools:text="500" />
