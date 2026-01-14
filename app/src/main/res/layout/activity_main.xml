@@ -18,7 +18,6 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        app:layout_constraintEnd_toStartOf="@+id/more"
         android:id="@+id/author"
         app:layout_constraintVertical_chainStyle="spread_inside"
         android:maxLines="1"
@@ -27,6 +26,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/common_offset"
         app:layout_constraintStart_toEndOf="@+id/avatar"
+        app:layout_constraintEnd_toStartOf="@+id/more"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toTopOf="@+id/published"
         tools:text="@sample/posts.json/data/author" />
@@ -60,12 +60,13 @@
         android:layout_height="wrap_content" />
 
     <TextView
-        app:layout_constraintTop_toBottomOf="@id/topBarrier"
+
         android:id="@+id/content"
         android:layout_width="0dp"
         android:layout_marginTop="@dimen/common_offset"
         android:autoLink="web"
         android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/topBarrier"
         tools:text="@sample/posts.json/data/content" />
 
 
@@ -93,7 +94,7 @@
         app:layout_constraintBottom_toBottomOf="@id/heart"
         app:layout_constraintStart_toEndOf="@id/heart"
         app:layout_constraintTop_toTopOf="@id/heart"
-        tools:text="10" />
+        android:text="10" />
 
     <ImageView
         android:id="@+id/share"
@@ -112,7 +113,7 @@
         app:layout_constraintBottom_toBottomOf="@id/share"
         app:layout_constraintStart_toEndOf="@id/share"
         app:layout_constraintTop_toTopOf="@id/share"
-        tools:text="5" />
+        android:text="5" />
 
     <ImageView
         android:id="@+id/eye"
@@ -132,7 +133,7 @@
         app:layout_constraintTop_toTopOf="@id/eye"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/bottomBarrier"
-        tools:text="500" />
+        android:text="500" />
 
 
 
